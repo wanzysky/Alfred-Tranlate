@@ -7,6 +7,8 @@
 # Usage
   Download and open [binary file](https://github.com/wanzysky/Alfred-Translate/blob/master/Alfred-Translate.alfredworkflow)
   
+  View on [packal](http://www.packal.org/workflow/alfred-translate)
+  
   Or git clone https://github.com/wanzysky/Alfred-Translate, and copy project into /path/to/alfred2/workflows/
   
 # Issues
